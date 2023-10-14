@@ -1,2 +1,2 @@
 # Weather-App
-Using react js 
+Using bootstrap & react js 
